@@ -1,0 +1,9 @@
+---
+title: "Hello world"
+author: "Camilo Rojas"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+## This is a Markdown file
+
